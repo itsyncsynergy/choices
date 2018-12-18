@@ -20,31 +20,31 @@
                             <div class="row">
                                 <div class="col-md-1"></div>
                                  <div class="col-md-10">
-                                      <h5 class="text-center mt-5">WHO IS THIS PERSON ?</h5>
+                                      <h5 class="text-center mt-5 mb-5">WHO IS THIS PERSON ?</h5>
                                       
-                                        <div class="form-group text-center">
-	                                      	<div class="btn-group btn-group-lg mt-5" role="group" >
-												<button type="button" id="btnMe" class="btn btn-secondary mx-2" style="border-radius: 0px !important;">ME</button>
+                                       
+                                            
+                                                <button type="button" id="btnMe" class="btn btn-secondary w-100 mb-3" style="border-radius: 20px !important;">ME</button>
 
-												<button type="button" id="btnFamily" class="btn btn-secondary mx-2">FAMILY</button>
+                                                <button type="button" id="btnFamily" class="btn btn-secondary w-100 mb-3" style="border-radius: 20px !important;">FAMILY</button>
 
-												<button type="button" id="btnFriend" class="btn btn-secondary mx-2" style="border-radius: 0px !important;">FRIEND</button>
-											</div>
-	                                    </div>
+                                                <button type="button" id="btnFriend" class="btn btn-secondary w-100 mb-3" style="border-radius: 20px !important;">FRIEND</button>
+                                            
+                                        
 
-			                            <form class="form-horizontal mt-5 mb-5" id="frmUser">
-			                 				<input type="hidden" name="type" id="type">
-			                 				
+                                        <form class="form-horizontal mt-5 mb-5" id="frmUser">
+                                            <input type="hidden" name="type" id="type">
+                                            
 
-			                                <div class="form-group mt-5">
-			                                     <input type="text" name="name" id="name" placeholder="Name" class="form-control bg-secondary text-white" style="border-radius: 20px" required>
-			                                </div>
+                                            <div class="form-group mt-5">
+                                                 <input type="hidden" name="name" id="name" value="Kareem" placeholder="Name" class="form-control bg-secondary text-white" style="border-radius: 20px" required>
+                                            </div>
 
-			                                <div class="form-group mt-2">
-			                                    <input type="text" name="email" id="email" placeholder="Email" class="form-control bg-secondary" style="color: #030000; border-radius: 20px" required>
-			                                </div>
-			                                         
-			                            </form>
+                                            <div class="form-group mt-2">
+                                                <input type="hidden" name="email" id="email" value="kasimodunayo2016@gmail.com" placeholder="Email" class="form-control bg-secondary" style="color: #030000; border-radius: 20px" required>
+                                            </div>
+                                                     
+                                        </form>
 
                                  </div>
                             </div>
