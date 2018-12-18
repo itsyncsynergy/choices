@@ -1,0 +1,1 @@
+{"beneficiarys":[{"beneficiaryId":"1798147","transactionType":"intertransfer","name":"Robert L Stewart ","email":null,"bankName":"Sparisjoour Bank Plc","bankCode":"000005","userName":"thomasjakesmcarthur@gmail.com","accountNo":"000409155842","phoneNumber":null}]}

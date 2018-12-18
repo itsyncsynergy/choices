@@ -1,0 +1,21 @@
+{
+    "customerId": "R02498026",
+    "accountNumber": "OO71995572",
+    "accountCurrency": "EUR",
+    "accountName": "Thomas Jakes McArthur ",
+    "solId": "185",
+    "schemeCode": "SB617",
+    "status": null,
+    "accountOpeningDate": 1396393200000,
+    "accountType": "Private",
+    "phoneNumber": "",
+    "emailAddress": "thomasjakesmcarthur@gmail.com",
+    "address": "Reykjavik, Iceland ",
+    "accountBranchAddress": "Reykjavik, Iceland",
+    "branchName": "Reykjavik Branch",
+    "accountOfficerName": "Jon Einarsson",
+    "accountOfficerPhone": "",
+    "accountOfficerEmail": "Jon.Einarsson@sparisjoour.com",
+    "onlineBankingEligibility": 1,
+    "birthday": 753231600000
+}
