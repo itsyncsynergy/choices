@@ -28,9 +28,9 @@
                             	<div class="col-md-8 mt-4">
                             		<div class="card border shadow p-4 mb-5 mt-4">
 									  <div class="card-body text-center">
-									   <h5> FADA CHRISTMAS SAYS...</h5>
+									   <h5> FADA CHRISTMAS SAYS THIS PERSON'S BUDGET IS</h5>
 
-									   <h2><?php echo $_camount; ?></h2>
+									   <h2># <?php echo $_camount; ?></h2>
 
 									  </div>
 								    </div>
